@@ -33,7 +33,7 @@ public class Primitive {
     /**
      * 64 bits: -9223372036854775808 to 9223372036854775807
      */
-    private long longValue = -9223372036854775808l;
+    private long longValue = -9223372036854775808L;
 
     /**
      * 32 bits: -3.40282347E+38F to 3.40282347E+38F
